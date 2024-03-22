@@ -1,0 +1,42 @@
+.places h1 {
+    font-size: 30px;
+    text-align: left;
+    margin-left: 20px;
+}
+
+article {
+    width: 390px;
+    margin: 20px;
+    padding: 20px;
+    border: 1px solid #FF5A5F;
+    border-radius: 4px;
+}
+
+article h2 {
+    font-size: 30px;
+    text-align: center;
+}
+
+.amenities,
+.reviews {
+    margin-top: 40px;
+}
+
+.amenities h2,
+.reviews h2 {
+    font-size: 16px;
+    border-bottom: 1px solid #DDDDDD;
+}
+
+ul {
+    list-style: none;
+    padding-left: 0;
+}
+
+.reviews h3 {
+    font-size: 14px;
+}
+
+.reviews p {
+    font-size: 12px;
+}
